@@ -1,6 +1,6 @@
 # Table of contents
 
-* [介绍](README.md)
+* [介绍&目录](README.md)
 
 ## 快捷方式
 
