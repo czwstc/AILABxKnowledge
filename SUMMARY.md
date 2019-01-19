@@ -1,5 +1,10 @@
 # Summary
 
+## 快捷方式
+
 * [序言](README.md)
-* [First Chapter](chapter1.md)
+
+## DSM
+
+* [DSM各功能介绍](dsm/dsmge-gong-neng-jie-shao.md)
 
