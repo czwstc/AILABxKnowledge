@@ -3,8 +3,8 @@
 ## 快捷方式
 
 * [序言](README.md)
+* [浦东校区VPN](ruan-jian-xia-zai/pu-dong-xiao-qu-vpn.md)
 * [软件下载](ruan-jian-xia-zai.md)
-  * [浦东校区VPN](ruan-jian-xia-zai/pu-dong-xiao-qu-vpn.md)
 
 ## DSM
 
