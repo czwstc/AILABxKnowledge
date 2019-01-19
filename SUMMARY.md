@@ -12,7 +12,10 @@
 * [浦东校区VPN](pu-dong-xiao-qu-vpn/README.md)
   * [MAC版本链接教程](pu-dong-xiao-qu-vpn/mac-ban-ben-lian-jie-jiao-cheng.md)
   * [Windows 版本教程](pu-dong-xiao-qu-vpn/windows-ban-ben-jiao-cheng.md)
-* [DSM系统介绍](dsm-xi-tong-jie-shao.md)
+* [DSM系统介绍](dsm-xi-tong-jie-shao/README.md)
+  * [DSM IP地址以及账号](dsm-xi-tong-jie-shao/dsm-ip-di-zhi-yi-ji-zhang-hao.md)
+  * [未）手机端使用Drive](dsm-xi-tong-jie-shao/wei-shou-ji-duan-shi-yong-drive.md)
+  * [未）手机端Chat协作](dsm-xi-tong-jie-shao/wei-shou-ji-duan-chat-xie-zuo.md)
 
 ## 快捷方式
 
