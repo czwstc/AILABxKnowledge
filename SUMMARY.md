@@ -3,6 +3,7 @@
 * [介绍&目录](README.md)
 * [序言](readme.md)
 * [远程桌面介绍](yuan-cheng-zhuo-mian-jie-shao.md)
+* [科学上网配置](ke-xue-shang-wang-pei-zhi.md)
 
 ## 快捷方式
 
