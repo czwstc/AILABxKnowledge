@@ -6,6 +6,7 @@
 * [科学上网配置](ke-xue-shang-wang-pei-zhi.md)
 * [浦东校区VPN](pu-dong-xiao-qu-vpn/README.md)
   * [MAC版本链接教程](pu-dong-xiao-qu-vpn/mac-ban-ben-lian-jie-jiao-cheng.md)
+  * [Windows 版本教程](pu-dong-xiao-qu-vpn/windows-ban-ben-jiao-cheng.md)
 * [DSM系统介绍](dsm-xi-tong-jie-shao.md)
 
 ## 快捷方式
