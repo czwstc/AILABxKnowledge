@@ -2,7 +2,8 @@
 
 * [介绍&目录](README.md)
 * [序言](readme.md)
-* [远程桌面介绍](yuan-cheng-zhuo-mian-jie-shao.md)
+* [远程桌面介绍](yuan-cheng-zhuo-mian-jie-shao/README.md)
+  * [远程桌面 IP地址](yuan-cheng-zhuo-mian-jie-shao/yuan-cheng-zhuo-mian-ip-di-zhi.md)
 * [科学上网配置](ke-xue-shang-wang-pei-zhi/README.md)
   * [未）Chrome + SwitchyOmega](ke-xue-shang-wang-pei-zhi/wei-chrome-+-switchyomega.md)
   * [未）Firefox+SwitchyOmega](ke-xue-shang-wang-pei-zhi/wei-firefox+switchyomega.md)
