@@ -8,5 +8,19 @@ description: 为了方便大家访问谷歌，我们准备了一个PAC脚本。
 
 可以打开电脑——设置——网络和Internet——Proxy（代理）——使用设置脚本。
 
+**脚本地址是：**[ **https://download-1252525175.cos.ap-shanghai.myqcloud.com/PAC/zhang.pac**](%20https://download-1252525175.cos.ap-shanghai.myqcloud.com/PAC/zhang.pac)\*\*\*\*
 
+![](.gitbook/assets/image%20%288%29.png)
+
+![](.gitbook/assets/image%20%2823%29.png)
+
+![](.gitbook/assets/image.png)
+
+开启使用设置脚本，同时保持手动设置代理关闭。（showdwos等软件会更改设置代理，请设为手动）
+
+**脚本地址是：**
+
+[ https://download-1252525175.cos.ap-shanghai.myqcloud.com/PAC/zhang.pac](%20https://download-1252525175.cos.ap-shanghai.myqcloud.com/PAC/zhang.pac)
+
+![](.gitbook/assets/image%20%2810%29.png)
 
