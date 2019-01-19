@@ -1,8 +1,13 @@
 ---
-description: 为了方便大家访问谷歌，我们准备了一个PAC脚本。
+description: >-
+  为了方便大家访问谷歌，我们准备了一个PAC脚本。当然我们更推荐使用Chrome、Firefox的switchyomeg插件来修改代理，更加高效。但是在设置里面修改是最为便捷的。
 ---
 
 # 科学上网配置
+
+以下内容 For win10用户
+
+
 
 只要你在校园网环境下（连着学校VPN、或者是文博楼、3207、sfuwifi等）
 
