@@ -18,6 +18,9 @@
   * [未）手机端使用Drive](dsm-xi-tong-jie-shao/wei-shou-ji-duan-shi-yong-drive.md)
   * [未）手机端Chat协作](dsm-xi-tong-jie-shao/wei-shou-ji-duan-chat-xie-zuo.md)
   * [未）免客户端挂载功能](dsm-xi-tong-jie-shao/wei-mian-ke-hu-duan-gua-zai-gong-neng.md)
+* [软件中心](ruan-jian-zhong-xin/README.md)
+  * [Untitled](ruan-jian-zhong-xin/untitled-1.md)
+  * [Untitled](ruan-jian-zhong-xin/untitled.md)
 
 ## 快捷方式
 
