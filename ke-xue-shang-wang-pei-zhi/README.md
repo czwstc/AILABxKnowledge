@@ -9,11 +9,13 @@ description: >-
 
 
 
-只要你在校园网环境下（连着学校VPN、或者是文博楼、3207、sfuwifi等）
+只要你在校园网环境下（连着学校VPN、或者是文博楼、lixin-ap、sfuwifi等）
 
 可以打开电脑——设置——网络和Internet——Proxy（代理）——使用设置脚本。
 
-**脚本地址是：**[ **https://download-1252525175.cos.ap-shanghai.myqcloud.com/PAC/zhang.pac**](%20https://download-1252525175.cos.ap-shanghai.myqcloud.com/PAC/zhang.pac)\*\*\*\*
+**浦东校区脚本地址是：** [**http://192.168.55.17/http.pac**](http://192.168.55.17/http.pac)\*\*\*\*
+
+**松江也能访问的还没写好。**
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
@@ -25,7 +27,9 @@ description: >-
 
 **脚本地址是：**
 
-[ https://download-1252525175.cos.ap-shanghai.myqcloud.com/PAC/zhang.pac](%20https://download-1252525175.cos.ap-shanghai.myqcloud.com/PAC/zhang.pac)
+[ https://download-1252525175.cos.ap-shanghai.myqcloud.com/PAC/zhang.pac](%20https://download-1252525175.cos.ap-shanghai.myqcloud.com/PAC/zhang.pac) （应该停用了）
+
+[**http://192.168.55.17/http.pac**](http://192.168.55.17/http.pac)\*\*\*\*
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 
