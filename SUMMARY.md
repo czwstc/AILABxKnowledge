@@ -24,8 +24,7 @@
 
 ## 快捷方式
 
-* [DSM 公网](https://frp.czwstc.cn:5001)
-* [DSM 校园网](http://192.168.55.114:5000)
+* [DSM 校园网](http://192.168.72.3:5000)
 * [管理员地址大全](kuai-jie-fang-shi/untitled-1.md)
 
 ## 常用功能
