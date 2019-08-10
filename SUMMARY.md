@@ -27,7 +27,7 @@
 * [DSM 校园网](http://192.168.72.3:5000)
 * [管理员地址大全](kuai-jie-fang-shi/untitled-1.md)
 
-## 常用功能
+## 常用功能 <a id="dsm"></a>
 
 * [DSM各功能介绍](dsm/dsmge-gong-neng-jie-shao.md)
 
